@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+	<package name="productFilter" namespace="/user" extends="json-default">
+		<action name="filterGrid_*" class="filterAction" method="{1}">
+			<result name="success">/user/shop-ui-filter-grid.jsp</result>
+			
+			<result name="proList" type="json">
+				<param name="root">listPro</param>
+			</result>
+		</action>
+	</package>
+</struts>    

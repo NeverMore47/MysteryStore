@@ -1,0 +1,97 @@
+8
+
+dir
+105
+http://192.168.10.63/svn/projects/wanjiahuan/mysteryStore/WebRoot/user/assets/plugins/master-slider/quick-start/masterslider
+http://192.168.10.63/svn/projects
+
+
+
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9c8c92d-ae81-4c42-a910-72fd86d0593a
+
+images
+dir
+
+jquery.easing.min.js
+file
+
+
+
+
+2017-02-16T08:34:17.460000Z
+55a5ad3c9dc153988571c9f428f5e872
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+
+jquery.min.js
+file
+
+
+
+
+2017-02-16T08:34:17.460000Z
+e0e0559014b222245deb26b6ae8bd940
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+
+masterslider.js
+file
+
+
+
+
+2017-02-16T08:34:17.460000Z
+d622db0fc786fcc80cc66024d892a707
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+
+masterslider.min.js
+file
+
+
+
+
+2017-02-16T08:34:17.460000Z
+22f86afef579d096cf18da5c831925d8
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+
+masterslider.min.js.map
+file
+
+
+
+
+2017-02-16T08:34:17.460000Z
+382e93c25a761c7c39a7e453a9e7ef7c
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+
+skins
+dir
+
+style
+dir
+

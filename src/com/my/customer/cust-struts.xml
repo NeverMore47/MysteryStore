@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+	<include file="com/my/homePage/hp-struts.xml"></include>
+	
+	
+	<package name="customer" namespace="/customer" extends="json-default">
+		<action name="login_*" class="loginAction" method="{1}">
+		
+			<result name="success" type="redirectAction">
+				<param name="namespace">/user</param>
+				<param name="actionName">show_queryFeat.action</param>
+			</result>
+			
+			<result name="fail" type="redirect">/user/error.jsp</result>
+		</action>
+		
+		<action name="checkIsLogin" class="loginAction" method="checkLogin">
+			<result name="success" type="json"></result>
+		</action>
+		
+	</package>
+</struts>    

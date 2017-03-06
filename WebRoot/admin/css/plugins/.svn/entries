@@ -1,0 +1,130 @@
+8
+
+dir
+105
+http://192.168.10.63/svn/projects/wanjiahuan/mysteryStore/WebRoot/admin/css/plugins
+http://192.168.10.63/svn/projects
+
+
+
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9c8c92d-ae81-4c42-a910-72fd86d0593a
+
+awesome-bootstrap-checkbox
+dir
+
+blueimp
+dir
+
+bootstrap-table
+dir
+
+chosen
+dir
+
+clockpicker
+dir
+
+codemirror
+dir
+
+colorpicker
+dir
+
+cropper
+dir
+
+dataTables
+dir
+
+datapicker
+dir
+
+dropzone
+dir
+
+duallistbox
+dir
+
+footable
+dir
+
+fullcalendar
+dir
+
+iCheck
+dir
+
+images
+dir
+
+ionRangeSlider
+dir
+
+jQueryUI
+dir
+
+jasny
+dir
+
+jqgrid
+dir
+
+jsTree
+dir
+
+markdown
+dir
+
+morris
+dir
+
+multiselect
+dir
+
+nouslider
+dir
+
+plyr
+dir
+
+simditor
+dir
+
+steps
+dir
+
+summernote
+dir
+
+sweetalert
+dir
+
+switchery
+dir
+
+toastr
+dir
+
+treeview
+dir
+
+webuploader
+dir
+

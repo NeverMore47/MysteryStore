@@ -1,0 +1,53 @@
+8
+
+dir
+105
+http://192.168.10.63/svn/projects/wanjiahuan/mysteryStore/WebRoot/admin/js/plugins/layer/laydate/skins/default
+http://192.168.10.63/svn/projects
+
+
+
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9c8c92d-ae81-4c42-a910-72fd86d0593a
+
+icon.png
+file
+
+
+
+
+2017-02-16T08:34:06.193000Z
+117d7e4b7e0fe6774616872b1b1edf33
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+has-props
+
+laydate.css
+file
+
+
+
+
+2017-02-16T08:34:06.193000Z
+f52788bd231e60084217c081778f0994
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+

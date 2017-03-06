@@ -1,0 +1,52 @@
+8
+
+dir
+105
+http://192.168.10.63/svn/projects/wanjiahuan/mysteryStore/WebRoot/admin/js/plugins/codemirror/mode/coffeescript
+http://192.168.10.63/svn/projects
+
+
+
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9c8c92d-ae81-4c42-a910-72fd86d0593a
+
+coffeescript.js
+file
+
+
+
+
+2017-02-16T08:34:06.053000Z
+0e5610e38633c1b9932d6b72949d7510
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+
+index.html
+file
+
+
+
+
+2017-02-16T08:34:06.053000Z
+e0436837263cb6a7399a5385026d84ce
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+

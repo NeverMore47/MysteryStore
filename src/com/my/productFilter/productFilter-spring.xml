@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.1.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd"
+	xmlns:tx="http://www.springframework.org/schema/tx">
+
+	<bean id="filterDao" class="com.my.productFilter.FilterDao">
+		<property name="factory" ref="sessionFactory"></property>
+	</bean>
+	
+	<bean id="filterService" class="com.my.productFilter.FilterService">
+		<property name="dao" ref="filterDao"></property>
+	</bean>
+	
+	<bean id="filterAction" class="com.my.productFilter.FilterAction">
+		<property name="service" ref="filterService"></property>
+	</bean>
+</beans>

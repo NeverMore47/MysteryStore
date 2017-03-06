@@ -1,0 +1,43 @@
+8
+
+dir
+105
+http://192.168.10.63/svn/projects/wanjiahuan/mysteryStore/WebRoot/user/assets/plugins/master-slider/quick-start
+http://192.168.10.63/svn/projects
+
+
+
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9c8c92d-ae81-4c42-a910-72fd86d0593a
+
+masterslider
+dir
+
+quick-start.html
+file
+
+
+
+
+2017-02-16T08:34:17.492000Z
+71f743bae09d50343d0a55b3081fae9c
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+

@@ -1,0 +1,52 @@
+8
+
+dir
+105
+http://192.168.10.63/svn/projects/wanjiahuan/mysteryStore/WebRoot/admin/js/plugins/codemirror/mode/django
+http://192.168.10.63/svn/projects
+
+
+
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9c8c92d-ae81-4c42-a910-72fd86d0593a
+
+django.js
+file
+
+
+
+
+2017-02-16T08:34:06.069000Z
+72c04bf04a886db18ed5530b39b0956f
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+
+index.html
+file
+
+
+
+
+2017-02-16T08:34:06.069000Z
+b6418182530d404d34a150b5ddcc57de
+2017-02-17T01:38:38.740156Z
+105
+wanjiahuan
+

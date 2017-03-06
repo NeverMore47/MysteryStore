@@ -1,0 +1,107 @@
+{
+    "status": 1,
+    "msg": "ok",
+    "data": [
+        {
+            "name": "閿�敭閮�,
+	        "nums": 36,
+            "id": 1,
+            "item": [
+               	{
+                    "id": "100001",
+                    "name": "閮暚鏄�,
+	                "face": "img/a5.jpg"
+                },
+                {
+                    "id": "100002",
+                    "name": "浣滃宕旀垚娴�,
+                    "face": "img/a6.jpg"
+                },
+                {
+                    "id": "1000022",
+                    "name": "闊╁瘨",
+                    "face": "img/a7.jpg"
+                },
+                {
+                    "id": "10000222",
+                    "name": "鑼冪埛",
+                    "face": "img/a8.jpg"
+                },
+                {
+                    "id": "100002222",
+                    "name": "灏忛┈鍝�,
+                    "face": "img/a9.jpg"
+                }
+            ]
+        },
+        {
+            "name": "澶у鍚岀獥",
+            "nums": 16,
+            "id": 2,
+            "item": [
+                {
+                    "id": "1000033",
+                    "name": "鑻忛啋",
+                    "face": "img/a9.jpg"
+                },
+                {
+                    "id": "10000333",
+                    "name": "椹簯",
+                    "face": "img/a8.jpg"
+                },
+                {
+                    "id": "100003",
+                    "name": "楝艰剼涓�,
+                    "face": "img/a7.jpg"
+                },
+                {
+                    "id": "100004",
+                    "name": "璋㈡",
+                    "face": "img/a6.jpg"
+                },
+                {
+                    "id": "100005",
+                    "name": "寰愬偿",
+                    "face": "img/a5.jpg"
+                }
+            ]
+        },
+        {
+            "name": "H+鍚庡彴涓婚",
+            "nums": 38,
+            "id": 3,
+            "item": [
+                {
+                    "id": "100006",
+                    "name": "鏌忛洩杩戝湪瀹冮",
+                    "face": "img/a4.jpg"
+                },
+                {
+                    "id": "100007",
+                    "name": "缃楁槍骞�,
+                    "face": "img/a3.jpg"
+                },
+                {
+                    "id": "100008",
+                    "name": "Crystal褰卞瓙",
+                    "face": "img/a2.jpg"
+                },
+                {
+                    "id": "100009",
+                    "name": "鑹哄皬鎯�,
+                    "face": "img/a1.jpg"
+                },
+                {
+                    "id": "100010",
+                    "name": "澶╃尗",
+                    "face": "img/a8.jpg"
+                },
+                {
+                    "id": "100011",
+                    "name": "寮犳硥鐏�,
+                    "face": "img/a7.jpg"
+                }
+            ]
+        }
+    ]
+}

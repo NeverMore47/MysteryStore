@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+	<include file="com/my/homePage/hp-struts.xml"></include>
+	<include file="com/my/customer/cust-struts.xml"></include>
+	<include file="com/my/cart/cart-struts.xml"></include>
+	<include file="com/my/cart/wish-struts.xml"></include>
+	<include file="com/my/product/product-struts.xml"></include>
+	<include file="com/my/productFilter/productFilter-struts.xml"></include>
+</struts>    
